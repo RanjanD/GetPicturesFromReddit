@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GetAww.exe" size="7640">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="GetAww.exe" size="8152">
       <assemblyIdentity name="GetAww" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>f1J0ginTNOepDbevk8u/53RnPzbND3jJjlonn5rG7Hk=</dsig:DigestValue>
+        <dsig:DigestValue>R8pPkzdgkaJa8ku1ohw5oYYtsXcrElVwtg2jFd5jmSc=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
